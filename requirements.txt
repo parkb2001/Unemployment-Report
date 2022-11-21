@@ -11,6 +11,8 @@ plotly
 
 pytest
 
+sendgrid==6.6.0
+
 # for our web app interface:
 flask
 

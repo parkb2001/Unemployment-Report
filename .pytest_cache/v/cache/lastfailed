@@ -1,0 +1,5 @@
+{
+  "tests/game_test.py": true,
+  "tests/stocks_test.py": true,
+  "tests/unemployment_test.py": true
+}

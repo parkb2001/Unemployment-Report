@@ -1,0 +1,7 @@
+[
+  "test/game_test.py::test_winning_choice",
+  "test/stocks_test.py::test_data_fetching",
+  "test/stocks_test.py::test_usd_formatting",
+  "test/unemployment_test.py::test_fetch_data",
+  "test/unemployment_test.py::test_percent_sign_formatting"
+]
